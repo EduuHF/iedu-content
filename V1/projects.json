@@ -2,25 +2,18 @@
   "schemaVersion": 1,
   "items": [
     {
-      "id": "P02",
+      "id": "P01",
       "order": 1,
       "isPublished": true,
-      "name": "F10 SmartAluno",
-      "role": "Mobile Software Architect",
-      "isLeadership": true,
+      "name": "Prueba",
+      "role": "iOS Developer",
       "sector": "education",
-      "employer": "F10 Software",
-      "platforms": ["ios", "android"],
-      "techList": ["Swift", "SwiftUI", "Kotlin", "MVP"],
+      "platforms": ["ios"],
       "summary": {
-        "en": "White-label school app: activities, classroom content, tasks and events, shipped to multiple schools with their own branding.",
-        "es": "App escolar white-label: actividades, contenido de clase, tareas y eventos, distribuida a varios colegios con su propia marca.",
-        "pt": "App escolar white-label: atividades, conteúdo de aula, tarefas e eventos, distribuído a várias escolas com marca própria."
-      },
-      "media": [
-        { "id": "m1", "type": "image", "path": "media/P02/screen1.jpg" },
-        { "id": "m2", "type": "video", "path": "media/P02/demo.mp4", "posterPath": "media/P02/demo-poster.jpg" }
-      ]
+        "en": "Test project.",
+        "es": "Proyecto de prueba.",
+        "pt": "Projeto de teste."
+      }
     }
   ]
 }
